@@ -1,0 +1,3 @@
+It is a distributed and reliable key value store used by Kubernetes to store all data used to manage the cluster. When you have multiple nodes and multiple masters in the cluster, etcd stores all that information on every node in the cluster in a distributed manner. (Every master node?)
+
+Key-value store keeps information in form of document (or pages) so each individual gets his own document with all related information.

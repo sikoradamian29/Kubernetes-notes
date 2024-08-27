@@ -1,0 +1,1 @@
+It is responsible for distributing work or containers across multiple nodes. It looks for newly created containers and assigns them to nodes.

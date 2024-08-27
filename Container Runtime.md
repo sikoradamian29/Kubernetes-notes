@@ -1,0 +1,1 @@
+It's the underlying software used to run containers, like ?rocket? or containerd.

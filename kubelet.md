@@ -1,0 +1,1 @@
+This is the agent that runs on each node in the cluster, it's responsible for making sure that the containers are running on the nodes as expected.

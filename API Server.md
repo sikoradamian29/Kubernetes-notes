@@ -1,0 +1,1 @@
+It acts as a frontend for Kubernetes. The users, management devices, cli communicate with the API Server to interact with Kubernetes cluster.

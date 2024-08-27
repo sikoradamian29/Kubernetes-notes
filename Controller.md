@@ -1,0 +1,1 @@
+They're responsible for noticing and responding when nodes, containers or end points go down. The controllers make decisions to bring up new containers in such cases.
