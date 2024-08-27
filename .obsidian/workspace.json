@@ -15,7 +15,7 @@
               "state": {
                 "file": "etcd.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Kubernetes Architecture.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "Kubernetes Architecture.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "Kubernetes Architecture.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -63,7 +63,7 @@
               "state": {
                 "file": "Kubernetes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -85,7 +85,7 @@
               "state": {
                 "file": "Controller.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -97,7 +97,7 @@
               "state": {
                 "file": "Deployment.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -109,7 +109,7 @@
               "state": {
                 "file": "Rollout.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -131,7 +131,7 @@
               "state": {
                 "file": "Kubernetes Architecture.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -143,7 +143,7 @@
               "state": {
                 "file": "Controller.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -155,7 +155,7 @@
               "state": {
                 "file": "Kubernetes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -167,7 +167,7 @@
               "state": {
                 "file": "Pods.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -280,8 +280,17 @@
                 "file": "etcd.md"
               }
             }
+          },
+          {
+            "id": "fc868991163d72cb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -296,16 +305,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0b688561f4b00ef2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-27 13.04.39.excalidraw.md",
+    "etcd.md",
     "ReplicaSets.md",
     "Kubernetes+-CKA-+0100+-+Core+Concepts.pdf",
     "KubernetesForBeginners-MumshadMannambeth.pdf",
     "kubernetes-services-updated.pdf",
-    "etcd.md",
     "Kubernetes Architecture.md",
     "kubectl create vs kubectl apply.md",
     "Deployment.md",
