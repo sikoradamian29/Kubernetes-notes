@@ -1,10 +1,10 @@
-#### A resource object that controls the [[Pods]] and ReplicaSets. It checks the health of the [[Pods]] and restarts the Pod's container if it terminates.
+#### A resource object that controls the [[Pods✅]] and ReplicaSets. It checks the health of the [[Pods✅]] and restarts the Pod's container if it terminates.
 
-#### "You describe a _desired state_ in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new [[ReplicaSets]], or to remove existing Deployments and adopt all their resources with new Deployments."
+#### "You describe a _desired state_ in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new [[ReplicaSets✅]], or to remove existing Deployments and adopt all their resources with new Deployments."
 
 #### "Deployment is a higher-level concept that manages ReplicaSets and provides declarative updates to Pods along with a lot of other useful features."
 
-#### You can update the deployment when you need, so if you change an image in the yaml file and do kubectl apply -f then kubernetes creates new [ReplicaSet](ReplicaSets) and removes the old one. You can reverse this using [[Rollout]]
+#### You can update the deployment when you need, so if you change an image in the yaml file and do kubectl apply -f then kubernetes creates new [ReplicaSet](ReplicaSets✅.md) and removes the old one. You can reverse this using [[Rollout✅]]
 
 ## Creating deployments using YAML file
 

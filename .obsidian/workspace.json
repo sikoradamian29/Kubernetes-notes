@@ -4,168 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e03c1b901ab76b3",
+        "id": "6eb8eeed0aec46cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0b688561f4b00ef2",
+            "id": "f95567b299c9c41e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etcd.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "befda113ca4feaa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Architecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "21e3569a61677c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Architecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "630db5d411a0aed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Architecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5cc071a2fb6ea7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36181a3491ef6f9c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/master-vs-worker.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4abe51c004189d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controller.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36c6424a3e349cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deployment.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b90f41f0b165853a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rollout.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "42fbf780fbbb1a05",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kubernetes+-CKA-+0100+-+Core+Concepts.pdf"
-              }
-            }
-          },
-          {
-            "id": "a14bf30c004f3b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Architecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "93445af74cce7667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controller.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a3c799b246944f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f7a3e290d4e5816e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pods.md",
+                "file": "StorageClass❌.md",
                 "mode": "source",
                 "source": true
               }
@@ -237,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etcd.md",
+                "file": "StorageClass❌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etcd.md",
+                "file": "StorageClass❌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etcd.md"
+                "file": "StorageClass❌.md"
               }
             }
           },
@@ -309,34 +157,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b688561f4b00ef2",
+  "active": "f95567b299c9c41e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-27 13.04.39.excalidraw.md",
-    "etcd.md",
-    "ReplicaSets.md",
-    "Kubernetes+-CKA-+0100+-+Core+Concepts.pdf",
-    "KubernetesForBeginners-MumshadMannambeth.pdf",
-    "kubernetes-services-updated.pdf",
-    "Kubernetes Architecture.md",
-    "kubectl create vs kubectl apply.md",
-    "Deployment.md",
-    "Kubernetes.md",
-    "Core+concepts+-2.pdf",
-    "Nodes.md",
-    "Docker+vs+Containerd+resource.pdf",
-    "Rollout.md",
-    "Container Runtime.md",
-    "Master vs Worker Nodes.md",
-    "Excalidraw/master-vs-worker.excalidraw.md",
-    "Excalidraw",
-    "kubelet.md",
-    "kublet.md",
-    "Controller.md",
-    "Scheduler.md",
-    "API Server.md",
-    "Pods.md",
-    "LivenessProbe.md",
-    "create a link.md",
-    "Welcome.md"
+    "StatefulSet❌.md",
+    "Secrets❌.md",
+    "Scheduler✅.md",
+    "Rollout✅.md",
+    "ReplicaSets✅.md",
+    "Pods✅.md",
+    "PersistentVolumeClaim❌.md",
+    "PersistentVolume❌.md",
+    "Nodes✅.md",
+    "Network Policies❌.md",
+    "Master vs Worker Nodes✅.md",
+    "LivenessProbe✅.md",
+    "Kubernetes Architecture✅.md",
+    "Kubernetes✅.md",
+    "kubelet✅.md",
+    "kubectl create vs kubectl apply✅.md",
+    "Ingress❌.md",
+    "HelmChart❌.md",
+    "Gateway API❌.md",
+    "etcd✅.md",
+    "Deployment✅.md",
+    "DaemonSet❌.md",
+    "CronJob❌.md",
+    "Controller✅.md",
+    "Container Runtime✅.md",
+    "ConfigMap❌.md",
+    "pdf/kubernetes-services-updated.pdf",
+    "pdf/Kubernetes+-CKA-+0100+-+Core+Concepts.pdf",
+    "pdf",
+    "pdf/KubernetesForBeginners-MumshadMannambeth.pdf",
+    "pdf/Core+concepts+-2.pdf",
+    "pdf/Docker+vs+Containerd+resource.pdf",
+    "Excalidraw"
   ]
 }

@@ -1,4 +1,4 @@
-#### Kubernetes can check if a container is still alive through `liveness probes`. You can specify a liveness probe for each container in the [pod](Pods)'s specification. Kubernetes can probe the container using one of three mechanisms:
+#### Kubernetes can check if a container is still alive through `liveness probes`. You can specify a liveness probe for each container in the [pod](Pods✅.md)'s specification. Kubernetes can probe the container using one of three mechanisms:
 
 - An `HTTP GET` probe performs an HTTP GET request on the container's IP address, a port and path you specify. If the probe receives a response and the response code doesn’t represent an error **(in other words, if the HTTP response code is 2xx or 3xx)**, the probe is considered successful. If the server returns an error response code or if it doesn’t respond at all, the probe is considered a failure and the container will be restarted as a result.
 - A `TCP Socket` probe tries to open a TCP connection to the specified port of the container. If the connection is established successfully, the probe is successful. Otherwise, the container is restarted.
