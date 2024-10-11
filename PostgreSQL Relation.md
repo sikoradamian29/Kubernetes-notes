@@ -1,0 +1,1 @@
+It simply means a table, the word comes from ingres databases, which PostgreSQL is based on.

@@ -1,0 +1,3 @@
+The notion of cluster in PostgreSQL refers to a single installation of PostgreSQL and all it's components, it's not a cluster where you have nodes with other instances which work together to offer HA.
+
+"In most basic terms, a postgres cluster as a group of databases which have their own configurations. For example you might have cluster which uses postgres v9 and has 2 databases in it, and all databases will use the same configuration offered by the cluster e.g buffer size, number of connections allowed, connection pool size etc. Similarly you can have another cluster which uses postgres 12 and it also can have multiple databases in it. You can also have multiple clusters with the same version but different configurations."

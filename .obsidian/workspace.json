@@ -18,8 +18,117 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f5d74e9f74ac09ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL Backup.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f7ff3c1a5e71f590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7a52e79893f3c159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL Replication.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4ca1d499e1cc363b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL WAL Files.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89f3dd5ec30b93f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL Schema.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3610bf6526fc1be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL Relation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8f290691d262e820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL Session.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8fbeca1491af60c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PGData.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4e17fdd57bbff2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL Cluster.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StorageClass❌.md",
+                "file": "PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StorageClass❌.md",
+                "file": "PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StorageClass❌.md"
+                "file": "PostgreSQL.md"
               }
             }
           },
@@ -157,8 +266,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f95567b299c9c41e",
+  "active": "f7ff3c1a5e71f590",
   "lastOpenFiles": [
+    "Kubernetes✅.md",
+    "Kubernetes Architecture✅.md",
+    "Deployment✅.md",
+    "PostgreSQL.md",
+    "PostgreSQL Replication.md",
+    "PostgreSQL WAL Files.md",
+    "Assets/pliki_wal.jpg",
+    "PostgreSQL Schema.md",
+    "PostgreSQL Relation.md",
+    "PostgreSQL Tuple.md",
+    "PGData.md",
+    "PostgreSQL Session.md",
+    "Assets/cala_struktura.jpg",
+    "Assets",
+    "PostgreSQL Backup.md",
+    "PG.md",
+    "PostgreSQL Cluster.md",
+    "StorageClass❌.md",
     "StatefulSet❌.md",
     "Secrets❌.md",
     "Scheduler✅.md",
@@ -170,21 +297,6 @@
     "Nodes✅.md",
     "Network Policies❌.md",
     "Master vs Worker Nodes✅.md",
-    "LivenessProbe✅.md",
-    "Kubernetes Architecture✅.md",
-    "Kubernetes✅.md",
-    "kubelet✅.md",
-    "kubectl create vs kubectl apply✅.md",
-    "Ingress❌.md",
-    "HelmChart❌.md",
-    "Gateway API❌.md",
-    "etcd✅.md",
-    "Deployment✅.md",
-    "DaemonSet❌.md",
-    "CronJob❌.md",
-    "Controller✅.md",
-    "Container Runtime✅.md",
-    "ConfigMap❌.md",
     "pdf/kubernetes-services-updated.pdf",
     "pdf/Kubernetes+-CKA-+0100+-+Core+Concepts.pdf",
     "pdf",

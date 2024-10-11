@@ -1,0 +1,1 @@
+Every session (every connection a user creates with database in the cluster) has it's own system process. 

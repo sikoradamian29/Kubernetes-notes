@@ -1,0 +1,1 @@
+Tuple in PostgreSQL is simply a row, the tuple word comes from ingres databases on which postgres is "based".
